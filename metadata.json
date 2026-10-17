@@ -1,0 +1,6 @@
+{
+  "name": "PawLab (포랩) - 반려견 제품 아이디어 발굴·검증 플랫폼",
+  "description": "보호자와 반려견의 실제 일상 문제에서 출발해 아이디어를 발굴하고, 시장성과 안전성을 체계적으로 검증해 제품화로 연결하는 대화형 기획 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
